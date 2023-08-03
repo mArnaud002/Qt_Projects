@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons8-data-pending-50.png</file>
+        <file>icons8-exit-64.png</file>
+        <file>icons8-task-completed-50.png</file>
+        <file>new Task.png</file>
+    </qresource>
+</RCC>
